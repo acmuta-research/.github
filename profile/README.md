@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/logo-color.svg" alt="ACM UTA Research logo" width="200" />
+  <img src="/assets/logo-color.svg" alt="ACM UTA Research logo" width="300" />
 </p>
 <h3 align="center">Pushing the boundaries of anything and everything. An ACM committee founded by @acmuta.</h3>
 <p align="center">
