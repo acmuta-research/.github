@@ -1,5 +1,5 @@
 {
-	"name": "Scheduled security audit for Rust projects",
+	"name": "Rust Security Audit",
 	"description": "Run a scheduled security audit for Rust projects using cargo-audit",
 	"iconName": "rust-logo",
 	"categories": [

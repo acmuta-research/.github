@@ -1,5 +1,5 @@
 {
-	"name": "CI for Rust projects",
+	"name": "Rust",
 	"description": "Setup a Rust project in your GitHub Actions workflow.",
 	"iconName": "rust-logo",
 	"categories": [
