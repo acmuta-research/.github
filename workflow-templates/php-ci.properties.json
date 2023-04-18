@@ -1,0 +1,13 @@
+{
+	"name": "Setup PHP",
+	"description": "Setup a PHP project with Composer and GitHub Actions",
+	"iconName": "php-logo",
+	"categories": [
+		"Continuous integration",
+		"PHP"
+	],
+	"filePatterns": [
+		"composer.json$",
+		"composer.lock$"
+	]
+}
