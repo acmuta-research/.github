@@ -1,0 +1,15 @@
+{
+	"name": "Publish an NPM package",
+	"description": "Publish an NPM package to NPM & GitHub Packages",
+	"iconName": "octicon package",
+	"categories": [
+		"Automation",
+		"Continuous integration",
+		"JavaScript",
+		"TypeScript",
+		"npm"
+	],
+	"filePatterns": [
+		"package.json$"
+	]
+}
