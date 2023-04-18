@@ -1,0 +1,13 @@
+{
+	"name": "CI for Rust projects",
+	"description": "Setup a Rust project in your GitHub Actions workflow.",
+	"iconName": "rust-logo",
+	"categories": [
+		"Continuous integration",
+		"Rust"
+	],
+	"filePatterns": [
+		"Cargo.toml$",
+		"Cargo.lock$"
+	]
+}
