@@ -1,0 +1,14 @@
+{
+	"name": "Scheduled security audit for Rust projects",
+	"description": "Run a scheduled security audit for Rust projects using cargo-audit",
+	"iconName": "octicon shield-check",
+	"categories": [
+		"monitoring",
+		"Continuous integration",
+		"Rust"
+	],
+	"filePatterns": [
+		"Cargo.toml$",
+		"Cargo.lock$"
+	]
+}
