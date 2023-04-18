@@ -1,7 +1,7 @@
 {
 	"name": "Scheduled security audit for Rust projects",
 	"description": "Run a scheduled security audit for Rust projects using cargo-audit",
-	"iconName": "octicon shield-check",
+	"iconName": "rust-logo",
 	"categories": [
 		"monitoring",
 		"Continuous integration",

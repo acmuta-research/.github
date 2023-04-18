@@ -1,7 +1,7 @@
 {
 	"name": "Publish an NPM package",
 	"description": "Publish an NPM package to NPM & GitHub Packages",
-	"iconName": "octicon package",
+	"iconName": "node-package-transparent",
 	"categories": [
 		"Automation",
 		"Continuous integration",
