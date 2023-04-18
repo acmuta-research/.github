@@ -1,0 +1,13 @@
+{
+	"name": "Publish Rust crate to Crates.io",
+	"description": "Publish a Rust crate to the Crates.io package registry",
+	"iconName": "rust-logo",
+	"categories": [
+		"Continuous integration",
+		"Rust"
+	],
+	"filePatterns": [
+		"Cargo.toml$",
+		"Cargo.lock$"
+	]
+}
