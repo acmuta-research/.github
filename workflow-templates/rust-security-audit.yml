@@ -5,6 +5,7 @@ on:
       - '**/Cargo.toml'
       - '**/Cargo.lock'
   push:
+    branches: [ $default-branch ]
     paths:
       - '**/Cargo.toml'
       - '**/Cargo.lock'
