@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/assets/logo-color.svg" alt="ACM UTA Research logo" width="300" />
 </p>
-<h3 align="center">An non-profit research organization founded by @acmuta.</h3>
+<h3 align="center">A non-profit research organization founded by @acmuta.</h3>
 <p align="center">
 	<a href="https://www.facebook.com/acmuta.research">Facebook</a> •
 	<a href="https://www.instagram.com/acmuta.research">Instagram</a> •
